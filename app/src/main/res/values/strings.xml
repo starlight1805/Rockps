@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rock,Paper,Scissors</string>
+    <string name="player2">Player2</string>
+    <string name="player1">Player1</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="_1">1</string>
+    <string name="round">Round:</string>
+    <string name="view">TextView</string>
+    <string name="next">Next</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="timer">Timer</string>
+</resources>
